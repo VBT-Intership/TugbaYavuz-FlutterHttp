@@ -6,6 +6,8 @@
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
 	// Placeholders with the same ids are connected.
 	// Example:
+	
+	
 	"Print to console": {
 		"scope": "dart",
 		"prefix": "pr",
@@ -14,6 +16,8 @@
 		],
 		"description": "Log output to console"
 	},
+	
+	
 	"Print to summary": {
 		"scope": "",
 		"prefix": "aut",
